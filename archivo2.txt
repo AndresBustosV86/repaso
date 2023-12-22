@@ -1,0 +1,4 @@
+Hola, este es el archivo de repaso numero 2
+
+
+Este es el segundo texto añadido en archivo2
